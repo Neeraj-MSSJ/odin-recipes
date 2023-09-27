@@ -1,0 +1,50 @@
+body {
+    background-color: #FFFFD2;
+    font-family: "sans-serif";
+}
+
+
+.RecipeTitle {
+    color: red;
+    text-align: center;
+    font-family: sans-serif;
+
+    margin: auto;
+    margin-top: 50px;
+    width: 50%;
+    border: 5px solid green;
+    padding: 10px;
+}
+
+.MenuBox {
+    margin: 50px;
+    text-align: center;
+}
+
+.ItemBox {
+    display: inline-block;
+    background-color: #FBEAEB;
+    width: 20%;
+
+    text-align: center;
+    padding: 10px;
+}
+img {
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.Heading {
+    text-align: center;
+    font-size: 100px;
+    font-family: sans-serif;
+    color: #317773;
+}
+
+a {
+    text-decoration: none;
+    color: #990011;
+}
